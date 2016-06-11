@@ -1,6 +1,7 @@
 # spidert2
 
-Overview of the project
+#Overview of the project
+--------------------------------------------------
 1.In this project the main aim is to perform various operations on a student database.
 2.First we download the required software for our project as stated in the build instructions below.
 3.Then we create a page which has options to add and view a student.
@@ -10,7 +11,8 @@ Overview of the project
 7.In this page an option to edit the details except roll number is to be provided along with the student details 
 8.This is the basic idea of adding,viewingand editing a database
 
-Build Instructions
+#Build Instructions
+---------------------------------------------------
 1. Download PHP, Apache and MySQL for your system
       1.Link to download XAMPP for windows. [XAMPP](https://sourceforge.net/projects/xampp/?source=directory)
       2.For linux [LAMP](https://bitnami.com/stack/lamp/installer)
