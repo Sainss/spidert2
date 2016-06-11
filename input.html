@@ -1,0 +1,117 @@
+<html>
+<head>
+
+<script type="text/javascript">
+
+    function validate()
+    {
+       
+	var error="";
+	var name = document.getElementById( "name_of_user" );
+	if( name.value == ""||!(name.value.match(/^[a-zA-Z ]+$/)) )
+	{
+	error = " You Have To Write a valid Name. ";
+	document.getElementById( "error_para" ).innerHTML = error;
+	return false;
+	}
+
+       var roll = document.getElementById( "number_of_user" );
+	if(roll.value==""|| roll.value<= 8||!(roll.value.match(/^[0-9]+$/) ))
+	{
+	error = " You Have To enter valid roll number. ";
+	document.getElementById( "error_para" ).innerHTML = error;
+	return false;
+	}
+        
+	var email = document.getElementById( "email_of_user" );
+	if( email.value == "" || email.value.indexOf( "@nitt.edu" ) == -1 )
+	{
+	error = " You Have To Write Valid Email Address. ";
+	document.getElementById( "error_para" ).innerHTML = error;
+	return false;
+	}
+
+	var address = document.getElementById( "add" );
+	if( address.value == ""  )
+	{
+	error = " You Have To enter your address ";
+	document.getElementById( "error_para" ).innerHTML = error;
+	return false;
+	}
+        
+          
+
+	else
+	{
+	return true;
+	}
+
+    }
+
+$pass=Math.floor(Math.random()*90000) + 10000;
+</script>
+<style>
+body{
+background-color:#85C1E9;
+}  
+
+
+h1{
+text-align:center;
+}
+
+div#form{
+height:700px;
+width:500px;
+background-color:#ECF0F1;
+margin:0px auto;
+padding:20px;
+align:center;
+text-align:center;
+border:#999 1px solid;
+}
+
+</style>
+
+    </head>
+
+    <body>
+           
+       <div id="form">
+         
+       
+	<h1>STUDENT DETAILS</h1>	
+	 <form method="POST" action="getdata.php" onsubmit="return validate();">
+	 	<p>Name*:<input type="text" name="Name" id="name_of_user"></p>
+                 
+             <p>Roll Number*:<input type="text" name="roll" value="" minlength="9" maxlength="9" id="number_of_user" /></p>
+ 
+         <p>Department*:
+              <select name="Department" size="1" id="dept">
+                <option>CSE
+               <option>ECE
+               <option selected>EEE
+               <option>MECH
+               <option>CHEM
+              <option>META
+              <option>PROD
+              <option>ICE
+              </select></p>
+
+	 	<p>Email Address*:<input type="text" name="email" id="email_of_user"></p>
+		<p>Physical Address*:</p>
+           <textarea name="address" rows="7" cols="30" id="add"></textarea >
+	 	<p>About me:</p>
+          <textarea name="myself" rows="7" cols="30"></textarea>
+          <br>
+          <input type="submit" name="submit_form" value="Submit">
+
+        
+
+	 </form>
+           
+	 <p id="error_para" ></p>
+          </div>
+        
+    </body>
+</html>
