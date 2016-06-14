@@ -23,3 +23,9 @@ Screenshots of my website
 1. The opening page
 
 ![mainpage](https://cloud.githubusercontent.com/assets/19251508/16035750/58e06e4e-3236-11e6-85d1-00a65c5687f3.PNG)
+
+
+2.Name validation
+
+![wrongname](https://cloud.githubusercontent.com/assets/19251508/16035852/e5c56b2a-3236-11e6-83fc-94140d0ca48e.jpg)
+
