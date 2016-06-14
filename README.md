@@ -37,10 +37,15 @@ Screenshots of my website
 
 ![wrongroll](https://cloud.githubusercontent.com/assets/19251508/16036012/9cf22c02-3237-11e6-898b-b66e544798d8.JPG)
 
-5.Empty address
+5.Address validation
 ![address](https://cloud.githubusercontent.com/assets/19251508/16036017/a3238256-3237-11e6-8f94-5cffbb60fc90.jpg)
 
 6.Final form after filling in details
+
+![form](https://cloud.githubusercontent.com/assets/19251508/16036168/49379dbc-3238-11e6-98dc-a2ceb745fa65.jpg)
+
+7.Data in mysql table as entered in the form
+![mysql](https://cloud.githubusercontent.com/assets/19251508/16036170/4c511f5a-3238-11e6-9383-e1550825ef66.jpg)
 
 
 
