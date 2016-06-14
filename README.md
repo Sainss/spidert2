@@ -18,5 +18,8 @@
       2.For linux [LAMP](https://bitnami.com/stack/lamp/installer)
 2.Clone the github repo ''git clone https://github.com/Sainss/spidert2.git''
 
+Screenshots of my website
 
+1. The opening page
 
+![mainpage](https://cloud.githubusercontent.com/assets/19251508/16035750/58e06e4e-3236-11e6-85d1-00a65c5687f3.PNG)
