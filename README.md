@@ -29,3 +29,8 @@ Screenshots of my website
 
 ![wrongname](https://cloud.githubusercontent.com/assets/19251508/16035852/e5c56b2a-3236-11e6-83fc-94140d0ca48e.jpg)
 
+3.Email validation
+
+![wrongemail](https://cloud.githubusercontent.com/assets/19251508/16035936/484cbe38-3237-11e6-9be3-202d099466d3.jpg)
+
+4.Roll number validation
