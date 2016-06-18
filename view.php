@@ -14,9 +14,9 @@
   }
 
 $roll=$_GET["roll"];
-$query="SELECT * FROM info WHERE Rollno LIKE $roll";
+$query="SELECT * FROM info WHERE Rollno= $roll";
 $result=mysqli_query($conn,$query);
- while ($row = mysqli_fetch_array($result,MYSQLI_ASSOC)){
+ if ($row = mysqli_fetch_array($result)){
 ?>
 <table style=" border:1px solid silver" cellpadding="5px" cellspacing="0px"
 align="center" border="1">
@@ -41,6 +41,12 @@ STUDENT DATABASE</td></tr>
 </table>
 <?php
 }
+
+else{
+
+echo 'Roll number not present in the database';
+}
+
 ?>
 </body>
 </html> 
