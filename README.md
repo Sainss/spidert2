@@ -44,6 +44,14 @@ Screenshots of my website
 
 ![completed form](https://cloud.githubusercontent.com/assets/19251508/16173004/53f86fb0-35b2-11e6-8d6c-27e98bb6b876.jpg)
 
-7.The data stored in mysql along with passkey
+7.If roll no. is same
+
+![sameroll](https://cloud.githubusercontent.com/assets/19251508/16173026/e2f8737c-35b2-11e6-9048-07bbc1505a62.jpg)
+
+8.Passcode display
+
+![passcode](https://cloud.githubusercontent.com/assets/19251508/16173020/c4117134-35b2-11e6-9c4a-114993725f1d.jpg)
+
+9.The data stored in mysql along with passkey
 
 ![mysql1](https://cloud.githubusercontent.com/assets/19251508/16172963/185ad818-35b1-11e6-9780-13d672fd268b.jpg)
