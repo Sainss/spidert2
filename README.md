@@ -20,66 +20,67 @@
 
 Screenshots of my website
 
-1. The opening page
+ The opening page
 
 ![mainpage](https://cloud.githubusercontent.com/assets/19251508/16035750/58e06e4e-3236-11e6-85d1-00a65c5687f3.PNG)
 
 
-2.Name validation
+Name validation
 
 ![wrongname](https://cloud.githubusercontent.com/assets/19251508/16035852/e5c56b2a-3236-11e6-83fc-94140d0ca48e.jpg)
 
-3.Email validation
+Email validation
 
 ![wrongemail](https://cloud.githubusercontent.com/assets/19251508/16035936/484cbe38-3237-11e6-9be3-202d099466d3.jpg)
 
-4.Roll number validation
+Roll number validation
 
 ![wrongroll](https://cloud.githubusercontent.com/assets/19251508/16036012/9cf22c02-3237-11e6-898b-b66e544798d8.JPG)
 
-5.Address validation
+Address validation
+
 ![address](https://cloud.githubusercontent.com/assets/19251508/16036017/a3238256-3237-11e6-8f94-5cffbb60fc90.jpg)
 
-6.Final form after filling in details
+Final form after filling in details
 
 ![completed form](https://cloud.githubusercontent.com/assets/19251508/16173004/53f86fb0-35b2-11e6-8d6c-27e98bb6b876.jpg)
 
-7.If roll no. is same
+If roll no. is same
 
 ![sameroll](https://cloud.githubusercontent.com/assets/19251508/16173026/e2f8737c-35b2-11e6-9048-07bbc1505a62.jpg)
 
-8.Passcode display
+Passcode display
 
 ![passcode](https://cloud.githubusercontent.com/assets/19251508/16173020/c4117134-35b2-11e6-9c4a-114993725f1d.jpg)
 
-9.The data stored in mysql along with passkey
+The data stored in mysql along with passkey
 
 ![mysql1](https://cloud.githubusercontent.com/assets/19251508/16172963/185ad818-35b1-11e6-9780-13d672fd268b.jpg)
 
-10. View student page
+ View student page
 
 
 ![view](https://cloud.githubusercontent.com/assets/19251508/16173117/a5a7905a-35b4-11e6-8af5-6e9ba34bd379.jpg)
 
-11.
+Enter valid roll number 
 
 
 ![correctroll](https://cloud.githubusercontent.com/assets/19251508/16173129/edc34fd2-35b4-11e6-89fe-8d7ccf8bf60b.jpg)
 
 
-12.
+Displaying result
 
 
 ![viewing](https://cloud.githubusercontent.com/assets/19251508/16173118/abe75360-35b4-11e6-9f10-2fd4d7079301.jpg)
 
 
-13.
+Invalid roll number
 
 
 ![wrongno](https://cloud.githubusercontent.com/assets/19251508/16173123/cb61656e-35b4-11e6-989d-21a4dc1ecdc2.jpg)
 
 
-14.
+Its result
 
 
 ![res](https://cloud.githubusercontent.com/assets/19251508/16173127/d1fa9670-35b4-11e6-9722-8f0274fbcd3b.jpg)
