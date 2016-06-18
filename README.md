@@ -44,8 +44,6 @@ Screenshots of my website
 
 ![form](https://cloud.githubusercontent.com/assets/19251508/16036168/49379dbc-3238-11e6-98dc-a2ceb745fa65.jpg)
 
-7.Data in mysql table as entered in the form
-![mysql](https://cloud.githubusercontent.com/assets/19251508/16036170/4c511f5a-3238-11e6-9383-e1550825ef66.jpg)
 
 
 
