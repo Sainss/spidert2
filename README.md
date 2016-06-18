@@ -55,3 +55,31 @@ Screenshots of my website
 9.The data stored in mysql along with passkey
 
 ![mysql1](https://cloud.githubusercontent.com/assets/19251508/16172963/185ad818-35b1-11e6-9780-13d672fd268b.jpg)
+
+10. View student page
+
+
+![view](https://cloud.githubusercontent.com/assets/19251508/16173117/a5a7905a-35b4-11e6-8af5-6e9ba34bd379.jpg)
+
+11.
+
+
+![correctroll](https://cloud.githubusercontent.com/assets/19251508/16173129/edc34fd2-35b4-11e6-89fe-8d7ccf8bf60b.jpg)
+
+
+12.
+
+
+![viewing](https://cloud.githubusercontent.com/assets/19251508/16173118/abe75360-35b4-11e6-9f10-2fd4d7079301.jpg)
+
+
+13.
+
+
+![wrongno](https://cloud.githubusercontent.com/assets/19251508/16173123/cb61656e-35b4-11e6-989d-21a4dc1ecdc2.jpg)
+
+
+14.
+
+
+![res](https://cloud.githubusercontent.com/assets/19251508/16173127/d1fa9670-35b4-11e6-9722-8f0274fbcd3b.jpg)
