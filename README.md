@@ -42,8 +42,7 @@ Screenshots of my website
 
 6.Final form after filling in details
 
-![form](https://cloud.githubusercontent.com/assets/19251508/16036168/49379dbc-3238-11e6-98dc-a2ceb745fa65.jpg)
-
+![completed form](https://cloud.githubusercontent.com/assets/19251508/16173004/53f86fb0-35b2-11e6-8d6c-27e98bb6b876.jpg)
 
 
 
