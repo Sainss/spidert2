@@ -14,7 +14,7 @@
   }
 
 $roll=$_GET["roll"];
-$query="SELECT * FROM info WHERE Roll Number LIKE $roll";
+$query="SELECT * FROM info WHERE Rollno LIKE $roll";
 $result=mysqli_query($conn,$query);
  while ($row = mysqli_fetch_array($result,MYSQLI_ASSOC)){
 ?>
@@ -25,17 +25,18 @@ align="center" border="1">
 STUDENT DATABASE</td></tr>
 <tr> 
 
-<td> Name</td><td><? echo $row[0];?></td>
-<td> Roll Number</td><td><? echo $row[1];?></td>
+<td> Name</td><td><? echo $row[1];?></td>
+<td> Roll Number</td><td><? echo $row[2];?></td>
 </tr>
 <tr>
-<td> Department</td><td><? echo $row[2];?></td>
-<td> Email Address</td><td><? echo $row[3];?></td>
+<td> Department</td><td><? echo $row[3];?></td>
+<td> Email Address</td><td><? echo $row[4];?></td>
 </tr>
 <tr>
-<td>Physical Address</td><td><? echo $row[4];?></td>
-<td>About me</td><td><? echo $row[5];?></td></tr>
-<tr> 
+<td>Physical Address</td><td><? echo $row[5];?></td>
+<td>About me</td><td><? echo $row[6];?></td></tr>
+<tr> 
+
 
 </table>
 <?php
