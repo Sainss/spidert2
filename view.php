@@ -6,6 +6,11 @@
 <body>
 <center><h1><u>Student Database</u></h1></center>
 
+<p align="right">
+
+<a href="edit.html"><input type="button" name="edit" value="Edit"></a>
+</p>
+
 <?php
  $conn = new mysqli( 'localhost', 'root', '', 'student form' );
   
