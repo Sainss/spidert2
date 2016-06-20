@@ -6,11 +6,6 @@
 <body>
 <center><h1><u>Student Database</u></h1></center>
 
-<p align="right">
-
-<a href="edit.html"><input type="button" name="edit" value="Edit"></a>
-</p>
-
 <?php
  $conn = new mysqli( 'localhost', 'root', '', 'student form' );
   
@@ -23,6 +18,12 @@ $query="SELECT * FROM info WHERE Rollno= $roll";
 $result=mysqli_query($conn,$query);
  if ($row = mysqli_fetch_array($result)){
 ?>
+
+<p align="right">
+
+<a href="edit.html"><input type="button" name="edit" value="Edit"></a>
+</p>
+
 <table style=" border:1px solid silver" cellpadding="5px" cellspacing="0px"
 align="center" border="1">
 <tr>
