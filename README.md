@@ -90,6 +90,10 @@ View page with edit button
 
 ![with edit button](https://cloud.githubusercontent.com/assets/19251508/16203580/8bbd483a-3738-11e6-9d63-0595390d7eea.jpg)
 
-If correct roll no. and passscode are entered then a page like this will appear
+If correct combination of roll no. and passscode are entered then a page like this will appear
 
 ![correctpassroll](https://cloud.githubusercontent.com/assets/19251508/16203686/1098f784-3739-11e6-92e1-fbf209c5814e.jpg)
+
+If incorrect combination of roll no. and passscode are entered then a page like this will appear
+
+![wrongrollpass](https://cloud.githubusercontent.com/assets/19251508/16203762/710a9208-3739-11e6-920c-3487f13e2268.jpg)
