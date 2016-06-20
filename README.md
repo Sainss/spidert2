@@ -84,3 +84,8 @@ Its result
 
 
 ![res](https://cloud.githubusercontent.com/assets/19251508/16173127/d1fa9670-35b4-11e6-9722-8f0274fbcd3b.jpg)
+
+
+View page with edit button
+
+![with edit button](https://cloud.githubusercontent.com/assets/19251508/16203580/8bbd483a-3738-11e6-9d63-0595390d7eea.jpg)
