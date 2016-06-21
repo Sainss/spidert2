@@ -9,7 +9,7 @@ if(!empty($_POST)){
   }
 
 
-$update="UPDATE info SET Name='$_POST[Name]',Department='$_POST[Department]',Emailid='$_POST[email]',Physicaladd='$_POST[address]',Aboutme='$_POST[myself]'" ;
+$update="UPDATE info SET Name='$_POST[Name]',Department='$_POST[Department]',Emailid='$_POST[email]',Physicaladd='$_POST[address]',Aboutme='$_POST[myself]' WHERE ID='$_POST[id]'" ;
 if(mysqli_query($conn,$update))
 {
 echo 'Update Successful';
