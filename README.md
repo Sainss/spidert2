@@ -110,3 +110,7 @@ Edited form
 Page appearing after we press update
 
 ![succ](https://cloud.githubusercontent.com/assets/19251508/16227807/a1c3da20-37d0-11e6-81c0-f65325fe830c.jpg)
+
+The updated data in the database
+
+![afterupd](https://cloud.githubusercontent.com/assets/19251508/16227872/062aa912-37d1-11e6-8163-5965e33324c2.jpg)
