@@ -97,3 +97,11 @@ If correct combination of roll no. and passscode are entered then a page like th
 If incorrect combination of roll no. and passscode are entered then a page like this will appear
 
 ![wrongrollpass](https://cloud.githubusercontent.com/assets/19251508/16203762/710a9208-3739-11e6-920c-3487f13e2268.jpg)
+
+
+The database before editing
+
+![beforeupd](https://cloud.githubusercontent.com/assets/19251508/16227755/3ef11610-37d0-11e6-92e2-741e2cec34f5.jpg)
+
+Edited form
+![edited](https://cloud.githubusercontent.com/assets/19251508/16227760/4808ce3c-37d0-11e6-898b-7d149e35f18c.jpg)
