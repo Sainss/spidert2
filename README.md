@@ -104,4 +104,9 @@ The database before editing
 ![beforeupd](https://cloud.githubusercontent.com/assets/19251508/16227755/3ef11610-37d0-11e6-92e2-741e2cec34f5.jpg)
 
 Edited form
+
 ![edited](https://cloud.githubusercontent.com/assets/19251508/16227760/4808ce3c-37d0-11e6-898b-7d149e35f18c.jpg)
+
+Page appearing after we press update
+
+![succ](https://cloud.githubusercontent.com/assets/19251508/16227807/a1c3da20-37d0-11e6-81c0-f65325fe830c.jpg)
