@@ -23,7 +23,8 @@ Screenshots of my website
  The opening page
 
 
-![mainpage](https://cloud.githubusercontent.com/assets/19251508/16236899/990ee934-37f7-11e6-938d-43af2a6e5183.jpg)
+![mainpage](https://cloud.githubusercontent.com/assets/19251508/16239445/7fc86be8-3802-11e6-89c2-abe6ef95922d.jpg)
+
 
 
 Name validation
@@ -119,3 +120,12 @@ The updated data in the database
 When the view all students on main page is clicked
 
 ![viewall](https://cloud.githubusercontent.com/assets/19251508/16236890/8dca3d76-37f7-11e6-87b7-d8bdabd67877.jpg)
+
+
+When the view by department button is clicked on main page
+
+![deptpage](https://cloud.githubusercontent.com/assets/19251508/16239454/89fc88ce-3802-11e6-8767-5947a7bb255e.jpg)
+
+After a department is entered in this page
+
+![sorted](https://cloud.githubusercontent.com/assets/19251508/16239462/942b3f20-3802-11e6-8b48-8531e0b77b8c.jpg)
