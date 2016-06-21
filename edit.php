@@ -100,7 +100,7 @@ if($row=mysqli_fetch_array($result) ){
               <option>PROD
               <option>ICE
               </select></p>
-
+            <input type="hidden" name="id" value="<?php echo $row[0]; ?>">
 	 	<p>Email Address*:<input type="text" name="email" id="email_of_user" value="<?php echo $row[4]; ?>"></p>
 		<p>Physical Address*:</p>
            <input type="text" name="address" rows="7" cols="30" id="add" value="<?php echo $row[5]; ?>"></textarea >
@@ -114,7 +114,8 @@ if($row=mysqli_fetch_array($result) ){
 	 </form>
 
  </div>
-        <?php
+        
+<?php
 }
 
 else{
