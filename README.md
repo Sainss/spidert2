@@ -101,7 +101,7 @@ If incorrect combination of roll no. and passscode are entered then a page like 
 
 The database before editing
 
-![beforeupd](https://cloud.githubusercontent.com/assets/19251508/16227755/3ef11610-37d0-11e6-92e2-741e2cec34f5.jpg)
+![beforeupd](https://cloud.githubusercontent.com/assets/19251508/16227926/5e93179c-37d1-11e6-800a-fb0ac6b460f8.jpg)
 
 Edited form
 
