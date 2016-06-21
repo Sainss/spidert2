@@ -22,7 +22,8 @@ Screenshots of my website
 
  The opening page
 
-![mainpage](https://cloud.githubusercontent.com/assets/19251508/16035750/58e06e4e-3236-11e6-85d1-00a65c5687f3.PNG)
+
+![mainpage](https://cloud.githubusercontent.com/assets/19251508/16236899/990ee934-37f7-11e6-938d-43af2a6e5183.jpg)
 
 
 Name validation
@@ -114,3 +115,7 @@ Page appearing after we press update
 The updated data in the database
 
 ![afterupd](https://cloud.githubusercontent.com/assets/19251508/16227872/062aa912-37d1-11e6-8163-5965e33324c2.jpg)
+
+When the view all students on main page is clicked
+
+![viewall](https://cloud.githubusercontent.com/assets/19251508/16236890/8dca3d76-37f7-11e6-87b7-d8bdabd67877.jpg)
