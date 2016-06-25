@@ -30,7 +30,17 @@ border:#999 1px solid;
 <div id="form">
 <h1>Enter department</h1>
 <form method="GET" action="sortdept.php" onsubmit="sortdept.php">
-<p>Department<input type="text" name="dept"></p>
+<p>Department*:
+              <select name="dept" size="1" id="dept">
+                <option>CSE
+               <option>ECE
+               <option selected>EEE
+               <option>MECH
+               <option>CHEM
+              <option>META
+              <option>PROD
+              <option>ICE
+              </select></p>
 <input type="submit" name="submit_form" value="Submit">
 </div>
 </form>
