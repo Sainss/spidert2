@@ -124,7 +124,8 @@ When the view all students on main page is clicked
 
 When the view by department button is clicked on main page
 
-![deptpage](https://cloud.githubusercontent.com/assets/19251508/16239454/89fc88ce-3802-11e6-8767-5947a7bb255e.jpg)
+![deptpage](https://cloud.githubusercontent.com/assets/19251508/16358102/5f076a26-3b27-11e6-9161-34d19497e417.jpg)
+
 
 After a department is entered in this page
 
