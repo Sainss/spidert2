@@ -15,7 +15,7 @@
   }
 
 $dept=$_GET['dept'];
-$query="SELECT * FROM info WHERE Department= $dept";
+$query="SELECT * FROM info WHERE Department= '$dept'";
 $result=mysqli_query($conn,$query);
 while ($row = mysqli_fetch_array($result)){
 ?>
@@ -39,7 +39,8 @@ STUDENT DATABASE</td></tr>
 <tr>
 <td>Physical Address</td><td><?php echo $row[5];?></td>
 <td>About me</td><td><?php echo $row[6];?></td></tr>
-<tr> 
+<tr> 
+
 
 </table>
 <?php
